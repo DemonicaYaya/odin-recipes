@@ -5,6 +5,12 @@ This is my first project from The Odin Project curriculum.
 ## Description
 A basic recipe website to practice HTML structure, links, lists, and images.
 
+
+## Recipes Included
+- Lasagna
+- Pizza
+- Shortbread Cookies
+
 ## Skills Demonstrated
 - HTML structure and boilerplate
 - Working with links (absolute and relative paths)
